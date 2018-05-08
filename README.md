@@ -6,6 +6,7 @@ Items to be handled on first day orientation.
 
 * BlueJ
 * Atom
+* JDK for Java 8
 * 
 
 
