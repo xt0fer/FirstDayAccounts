@@ -5,11 +5,11 @@ Items to be handled on first day orientation.
 Open a Terminal app.
 Ooh, ooh, Do this ->
 
-    Find the `shell` or `terminal` or `term` (all names for the command interpreter.
+Find the `shell` or `terminal` or `term` (all names for the command interpreter).
 
-    `terminal` or `shell` mean pretty much the same thing - `/Applications/Utilities/Terminal.app` and start it up.
+`terminal` or `shell` mean pretty much the same thing - `/Applications/Utilities/Terminal.app` and start it up.
 
-    Type `whoami` and `enter` or `return`. Congratulations, you just typed a command. You're Welcome.
+Type `whoami` and `enter` or `return`. Congratulations, you just typed a command. You're Welcome.
 
 now, type `git --version` and make note of what comes back, the version number of git.
 
