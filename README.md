@@ -9,7 +9,7 @@ Find the `shell` or `terminal` or `term` (all names for the command interpreter)
 
 `terminal` or `shell` mean pretty much the same thing - `/Applications/Utilities/Terminal.app` and start it up.
 
-![Terminal Icon](./termicon.png)
+It looks like this -> ![Terminal Icon](./termicon.png)
 
 Type `whoami` and `enter` or `return`. Congratulations, you just typed a command. You're Welcome.
 
