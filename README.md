@@ -32,11 +32,16 @@ _Be sure to use professional names when signing up. (`BlueHenCoder` is okay, `Su
 
 * Email: gmail gmail gmail gmail gmail
 * Slack
+* Sigup for an Apple Id.
+* Signup for a free DropBox.com account.
 * Github
  * BE SURE to add a avatar pic to github account.
  * Register for account on GitHub (https://github.com/). We recommend using a username that incorporates your name (jfiksel, mtaub, lrjager)
  * `$ git --version` and `$ git config` in the terminal to configure your shell for your new git account.
  * go to https://Git.Zipcode.Rocks then use your github username/id to register account on https://git.zipcode.rocks (the private ZCW Git server)
- * Fill out this [form](https://goo.gl/forms/sEHRc2F2u3E1sWh42) with your Github username
+
+* Fill out this [form](https://goo.gl/forms/sEHRc2F2u3E1sWh42) with your Github username
+ 
+And later... we'll get you to signup for...
 * Pluralsight videos
 
